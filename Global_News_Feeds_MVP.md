@@ -13,5 +13,4 @@ To avoid the  curse-of-dimensionality we can  use PCA to project them to a more 
 -dimensional space that allows us to see the layout of the data in two dimensions, and have done this in an unsupervised manner—that is, without reference to the labels.
 
 
-## Next step :
-design Topic Model with gensim(LDA)
+**Next step :** design Topic Model with gensim(LDA)
