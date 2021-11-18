@@ -1,4 +1,5 @@
-# Global News Feeds
+# Global-News-Feeds
+
 
 
 <img src="https://github.com/samaher21/NLP_Project/blob/main/Picture1.jpg" alt="drawing" width="600"/>
@@ -7,7 +8,7 @@
 ## Introduction
 
 Global News is a collection of the  most current news around the world, include news websites, government agencies, tech journals, company websites, etc.
-In this project we aim to bulid a model that predict the most topic puplished over the news.
+In this project we aim to build a model that predict the most topic published over the news.
 
 ## Problem statement
 
